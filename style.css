@@ -175,7 +175,7 @@ a{
 
 #hero {
     min-height: 100vh;
-    background: url(/assets/Home12.png);
+    background: url('/assets/Home12.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100% 100%;
